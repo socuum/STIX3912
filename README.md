@@ -1,5 +1,3 @@
-# STIX3912 Practicum
-
 [Home](https://github.com/socuum/STIX3912/wiki)
 ---
 * [Important Dates](https://github.com/socuum/STIX3912/wiki/Important-Dates)  
@@ -14,6 +12,11 @@
 List of Supervisors:  
 * [A172-Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A172))  
 * [A171-Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A171))
+
+---
+List of Visiting Supervisors:  
+* [A171-Visiting Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Visiting-Supervisors-(A171))
+
 ---
 Practicum Briefing:
 * [Agenda](https://github.com/socuum/STIX3912/wiki/Practicum-Briefing)
