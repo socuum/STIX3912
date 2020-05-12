@@ -11,7 +11,8 @@
 ---
 List of Supervisors:  
 * [A192-Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A192))  
-* [A191-Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A191))  
+* [A191-Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A191))
+* [A181-Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A181))
 * [A172-Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A172))  
 * [A171-Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A171))
 
