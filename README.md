@@ -24,7 +24,7 @@ List of Visiting Supervisors:
 ---
 Practicum Briefing:
 * [Agenda](https://github.com/socuum/STIX3912/wiki/Practicum-Briefing)
-* [A201-Attendance 1 & 2](https://github.com/socuum/STIX3912/blob/master/A201/A201-AttendanceBriefing.pdf)
+* [A201-Attendance 1 & 2](https://github.com/socuum/STIX3912/raw/master/A201/A201-AttendanceBriefing.pdf)
 * [A192-Attendance 1 & 2](https://github.com/socuum/STIX3912/blob/master/A192/A192-AttendanceBriefing.pdf)
 * [A191-Attendance 1 & 2](https://github.com/socuum/STIX3912/tree/master/A191)
 * [A181-Attendance 1 & 2](https://github.com/socuum/STIX3912/blob/master/A181/A181-AttendanceBriefing.pdf)
