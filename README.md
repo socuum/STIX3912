@@ -10,6 +10,7 @@
 
 ---
 List of Supervisors:  
+* [A202-Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A202))
 * [A201-Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A201))  
 * [A192-Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A192))  
 * [A191-Supervisors](https://github.com/socuum/STIX3912/wiki/List-of-Supervisors-(A191))
