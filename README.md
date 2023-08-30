@@ -25,6 +25,8 @@ List of Visiting Supervisors:
 ---
 Practicum Briefing:
 * [Agenda](https://github.com/socuum/STIX3912/wiki/Practicum-Briefing)
+* [A223-Attendance 1](https://github.com/socuum/STIX3912/blob/master/TAKLIMAT%20PRAKTIKUM%20SOC%202023_SESI%201.pdf)
+* [A223-Attendance 2](https://github.com/socuum/STIX3912/blob/master/TAKLIMAT%20PRAKTIKUM%20SOC%202023_SESI%202.pdf)
 * [A202-Attendance 1 & 2](https://github.com/socuum/STIX3912/raw/master/A201/A201-AttendanceBriefing.pdf)
 * [A201-Attendance 1 & 2](https://github.com/socuum/STIX3912/raw/master/A201/A201-AttendanceBriefing.pdf)
 * [A192-Attendance 1 & 2](https://github.com/socuum/STIX3912/blob/master/A192/A192-AttendanceBriefing.pdf)
